@@ -1,0 +1,273 @@
+{
+    "players": [
+        {
+            "PlayerId": 1,
+            "PlayerName": "DragonSlayer",
+            "InhabitantOfRealm": "Yellow",
+            "Playergender": "F",
+            "StartDate": "2022-01-01",
+            "PlayTimeInHours": 25,
+            "DefeatedBosses": 5,
+            "ProfilePicture": "https://pin.it/3Ddilmu"
+        },
+        {
+            "PlayerId": 2,
+            "PlayerName": "DeamonSlayer",
+            "InhabitantOfRealm": "Blue",
+            "Playergender": "M",
+            "StartDate": "2022-01-01",
+            "PlayTimeInHours": 10,
+            "DefeatedBosses": 0,
+            "ProfilePicture": "https://pin.it/5riIOY3"
+        },
+        {
+            "PlayerId": 3,
+            "PlayerName": "PokemonMaster",
+            "InhabitantOfRealm": "Red",
+            "Playergender": "M",
+            "StartDate": "2022-01-06",
+            "PlayTimeInHours": 500,
+            "DefeatedBosses": 6,
+            "ProfilePicture": "https://pin.it/5EZ73t4"
+        },
+        {
+            "PlayerId": 4,
+            "PlayerName": "IKZELF121",
+            "InhabitantOfRealm": "Blue",
+            "Playergender": "M",
+            "StartDate": "2022-04-04",
+            "PlayTimeInHours": 30,
+            "DefeatedBosses": 5,
+            "ProfilePicture": "https://pin.it/2WdRBpN"
+        },
+        {
+            "PlayerId": 5,
+            "PlayerName": "Razum-Dar",
+            "InhabitantOfRealm": "Red",
+            "Playergender": "M",
+            "StartDate": "2022-02-04",
+            "PlayTimeInHours": 1,
+            "DefeatedBosses": 5,
+            "ProfilePicture": "https://pin.it/2WdRBpN"
+        },
+        {
+            "PlayerId": 6,
+            "PlayerName": "Mijner121",
+            "InhabitantOfRealm": "Red",
+            "Playergender": "F",
+            "StartDate": "2022-10-01",
+            "PlayTimeInHours": 7,
+            "DefeatedBosses": 1,
+            "ProfilePicture": "https://pin.it/7qYBUMd"
+        },
+        {
+            "PlayerId": 7,
+            "PlayerName": "IKSAM",
+            "InhabitantOfRealm": "Blue",
+            "Playergender": "M",
+            "StartDate": "2022-11-11",
+            "PlayTimeInHours": 50,
+            "DefeatedBosses": 8,
+            "ProfilePicture": "https://pin.it/1Vd8wkk"
+        },
+        {
+            "PlayerId": 8,
+            "PlayerName": "Number1",
+            "InhabitantOfRealm": "Blue",
+            "Playergender": "M",
+            "StartDate": "2022-03-10",
+            "PlayTimeInHours": 100,
+            "DefeatedBosses": 10,
+            "ProfilePicture": "https://pin.it/2YePK3B"
+        },
+        {
+            "PlayerId": 9,
+            "PlayerName": "TheCrazyNoodles",
+            "InhabitantOfRealm": "Blue",
+            "Playergender": "M",
+            "StartDate": "2022-01-10",
+            "PlayTimeInHours": 140,
+            "DefeatedBosses": 5,
+            "ProfilePicture": "https://pin.it/12v9HEc"
+        },
+        {
+            "PlayerId": 10,
+            "PlayerName": "Yorbeken",
+            "InhabitantOfRealm": "Red",
+            "Playergender": "F",
+            "StartDate": "2022-01-27",
+            "PlayTimeInHours": 156,
+            "DefeatedBosses": 0,
+            "ProfilePicture": "https://pin.it/4MJ2wOw"
+        },
+        {
+            "PlayerId": 11,
+            "PlayerName": "Aapenstaart",
+            "InhabitantOfRealm": "Yellow",
+            "Playergender": "M",
+            "StartDate": "2022-01-30",
+            "PlayTimeInHours": 170,
+            "DefeatedBosses": 2,
+            "ProfilePicture": "https://pin.it/61dVPpF"
+        },
+        {
+            "PlayerId": 12,
+            "PlayerName": "Vlaams",
+            "InhabitantOfRealm": "Yellow",
+            "Playergender": "M",
+            "StartDate": "2022-03-10",
+            "PlayTimeInHours": 30,
+            "DefeatedBosses": 1,
+            "ProfilePicture": "https://pin.it/4ewYbX0"
+        },
+        {
+            "PlayerId": 13,
+            "PlayerName": "JavaScriptProgrammer404",
+            "InhabitantOfRealm": "Blue",
+            "Playergender": "F",
+            "StartDate": "2022-04-08",
+            "PlayTimeInHours": 40,
+            "DefeatedBosses": 5,
+            "ProfilePicture": "https://pin.it/6J8ASIb"
+        },
+        {
+            "PlayerId": 14,
+            "PlayerName": "Glitcher101",
+            "InhabitantOfRealm": "Yellow",
+            "Playergender": "F",
+            "StartDate": "2022-05-05",
+            "PlayTimeInHours": 60,
+            "DefeatedBosses": 4,
+            "ProfilePicture": "https://pin.it/7Dz6Siq"
+        },
+        {
+            "PlayerId": 15,
+            "PlayerName": "WebsiteUnreachable404",
+            "InhabitantOfRealm": "Red",
+            "Playergender": "M",
+            "StartDate": "2022-06-01",
+            "PlayTimeInHours": 100,
+            "DefeatedBosses": 8,
+            "ProfilePicture": "https://pin.it/J5bQHfd"
+        }
+    ],
+    "monsters": [
+        {
+            "MonsterId": 1,
+            "MonsterName": "Blob",
+            "MonsterNickname": "Bob",
+            "Element": "Neutral",
+            "GuidEntry": 5,
+            "CanEvolve": false,
+            "PlayerId": 1
+        },
+        {
+            "MonsterId": 2,
+            "MonsterName": "Fire Snake",
+            "MonsterNickname": "Drake",
+            "Element": "Fire",
+            "GuidEntry": 20,
+            "CanEvolve": false,
+            "PlayerId": 1
+        },
+        {
+            "MonsterId": 3,
+            "MonsterName": "Stone Giant",
+            "MonsterNickname": "Stone Giant",
+            "Element": "Stone",
+            "GuidEntry": 50,
+            "CanEvolve": false,
+            "PlayerId": 2
+        },
+        {
+            "MonsterId": 4,
+            "MonsterName": "Ghost Whale",
+            "MonsterNickname": "Whalord",
+            "Element": "Water",
+            "GuidEntry": 15,
+            "CanEvolve": false,
+            "PlayerId": 5
+        },
+        {
+            "MonsterId": 5,
+            "MonsterName": "Big Foot",
+            "MonsterNickname": "Big Foot",
+            "Element": "Neutral",
+            "GuidEntry": 20,
+            "CanEvolve": false,
+            "PlayerId": 5
+        },
+        {
+            "MonsterId": 6,
+            "MonsterName": "Blob",
+            "MonsterNickname": "Eduardo",
+            "Element": "Neutral",
+            "GuidEntry": 5,
+            "CanEvolve": true,
+            "PlayerId": 6
+        },
+        {
+            "MonsterId": 7,
+            "MonsterName": "Blob",
+            "MonsterNickname": "Enrike",
+            "Element": "Neutral",
+            "GuidEntry": 5,
+            "CanEvolve": true,
+            "PlayerId": 6
+        },
+        {
+            "MonsterId": 8,
+            "MonsterName": "Blob",
+            "MonsterNickname": "Edgar",
+            "Element": "Neutral",
+            "GuidEntry": 5,
+            "CanEvolve": true,
+            "PlayerId": 6
+        },
+        {
+            "MonsterId": 9,
+            "MonsterName": "Ghost Whale",
+            "MonsterNickname": "Ghosty",
+            "Element": "Fire",
+            "GuidEntry": 15,
+            "CanEvolve": true,
+            "PlayerId": 10
+        },
+        {
+            "MonsterId": 10,
+            "MonsterName": "Big Foot",
+            "MonsterNickname": "Footy",
+            "Element": "Neutral",
+            "GuidEntry": 20,
+            "CanEvolve": false,
+            "PlayerId": 10
+        },
+        {
+            "MonsterId": 11,
+            "MonsterName": "Fire Snake",
+            "MonsterNickname": "Slitherin",
+            "Element": "Fire",
+            "GuidEntry": 20,
+            "CanEvolve": false,
+            "PlayerId": 11
+        },
+        {
+            "MonsterId": 12,
+            "MonsterName": "Stone Giant",
+            "MonsterNickname": "Stone Giant",
+            "Element": "Stone",
+            "GuidEntry": 50,
+            "CanEvolve": false,
+            "PlayerId": 12
+        },
+        {
+            "MonsterId": 13,
+            "MonsterName": "Fire Snake",
+            "MonsterNickname": "Fire Snake",
+            "Element": "Fire",
+            "GuidEntry": 20,
+            "CanEvolve": false,
+            "PlayerId": 12
+        }
+    ]
+}
