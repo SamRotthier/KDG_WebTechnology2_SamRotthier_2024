@@ -1,0 +1,7 @@
+Commands in node:
+node -v -> shows the version of the installed node.js (or shows not installed)
+node -> To start a node server
+
+
+Handige links:
+https://stackoverflow.com/questions/56960799/how-can-i-tell-if-a-particular-module-is-a-commonjs-module-or-an-es6-module

@@ -1,0 +1,14 @@
+{
+  "name": "webtechnology2_samrotthier",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "02_node_basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sam Rotthier",
+  "license": "ISC"
+}
