@@ -1,0 +1,7 @@
+commands:
+npm i typescript -g
+npx tsc index.ts
+npm install -D @tsconfig/recommended => Dit commando geeft de Package.json en de Package-lock.json
+npm i typescript tsx -D
+npm install --save-dev @types/node
+npm i @tsconfig/node-lts -D
