@@ -2,7 +2,7 @@ import Entities from "./Entities.js";
 
 
 interface Subscriber{
-    entities: Entities,
+    entities: Entities
 }
 
 export default Subscriber;

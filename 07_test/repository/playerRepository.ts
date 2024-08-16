@@ -18,7 +18,7 @@ function getPlayerSummary(player: Player): PlayerSummary{
         playerName: player.PlayerName,
         timePlayed: player.PlayTimeInHours,
         ...addSelf(`/players/${player.PlayerId}`)
-    };
+    }
 }
 
 function findPlayerById(players: Player[], playerId: number): Player|null {

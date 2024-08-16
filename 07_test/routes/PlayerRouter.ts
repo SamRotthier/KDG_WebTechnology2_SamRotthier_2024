@@ -25,12 +25,6 @@ playerRouter.get("/playername", (req:Request, res:Response) => {
     }
 })
 
-/* Ik week hier een beetje van de opdracht af.
-In de opdracht vragen ze via "http://localhost:3000/api/hoofdentiteiten?zoek=”term”" te kunnen zoeken.
-Door de vorige get api nam node server altijd de bovenste en ging hij het zoeken dus overslaan.
-Ik kon dit oplossen door deze 2 samen in een if vraag te steken en hierop vergelijkingen te doen.
-Ik heb gekozen om ze toch op te splitsen en een extra api path te maken voor meer duidelijkheid.
- */
 //http://localhost:3000/api/players/search?search=DragonSlayer
 playerRouter.get("/search", (req:Request, res:Response) =>{
     let players : Player[] = req.body.players;

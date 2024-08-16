@@ -47,7 +47,7 @@ describe("Test Players", () =>{
             .expect(201)
     })
     test("DELETE Requet Players - Status code 404 after deletion",  () =>{
-        const id = 100001
+        const id = 1
         server.delete(`/api/players/${id}`)
             .then(res => {
                 expect(res.statusCode).toBe(204)

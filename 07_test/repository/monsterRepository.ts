@@ -9,11 +9,9 @@ const monsters = entities.monsters;
 
 function findMonsterBy(monsters: Monster[], monsterTest: (monster: Monster) => boolean): Monster[] {
     return monsters.filter((monster: Monster) => monsterTest(monster));
-    //gives back a filtered list of monsters where they "loop" over the list and checks if the test is true
 }
 
 function findMonsterByMonsterId(monsters: Monster[], monsterId: number): Monster[]{
-    //console.log(monsters.filter((monster: Monster) => monster.MonsterId === monsterId))
     return monsters.filter((monster: Monster) => monster.MonsterId === monsterId);
 }
 
